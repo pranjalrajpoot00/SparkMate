@@ -47,15 +47,22 @@ io.on("connection", (socket) => {
     io.emit("message-from-server", data);
   });
 });
-
 const client = new MongoClient(uri, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
+async function connectToDatabase() {
+  try {
+    await client.connect();
+    console.log("Connected to database");
+  } catch (err) {
+    console.error("Failed to connect to database", err);
+  }
+}
 
-// Default
+connectToDatabase();
+
 app.get("/", async (req, res) => {
-  await client.connect(() => console.log("Connected to database"));
   res.send("Hello to my app");
 });
 
