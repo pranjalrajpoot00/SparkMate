@@ -13,11 +13,11 @@
 ## Screenshots
 
 ### Landing Page
-![Landing Page](<https://imgur.com/Lzssw7U>)
+![Landing Page](<https://ibb.co/HDBngc0>)
 
 ### Create Account Page
-![Create Account Page](<https://imgur.com/Q2o7Uru>)
+![Create Account Page](<https://ibb.co/5xdnksm>)
 
 ### Home Page
-![Chat Page](<https://imgur.com/69wH7Kp>)
+![Chat Page](<https://ibb.co/K9KxKmR>)
 
