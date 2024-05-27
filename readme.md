@@ -13,11 +13,13 @@
 ## Screenshots
 
 ### Landing Page
-![Landing Page](<https://ibb.co/HDBngc0>)
+![Landing](https://github.com/pranjalrajpoot00/SparkMate/assets/141436597/a9e2e6a6-50d3-4361-960d-d41d353fe80f)
 
 ### Create Account Page
-![Create Account Page](<https://ibb.co/5xdnksm>)
+![CreateAcc](https://github.com/pranjalrajpoot00/SparkMate/assets/141436597/99e7f43e-0501-4b27-8335-302c154e5d22)
+
 
 ### Home Page
-![Chat Page](<https://ibb.co/K9KxKmR>)
+![Home](https://github.com/pranjalrajpoot00/SparkMate/assets/141436597/b4a926f9-068c-43db-b0e1-b8c9c677b901)
+
 
